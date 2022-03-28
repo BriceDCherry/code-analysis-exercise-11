@@ -37,14 +37,14 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|   5   | 36, 39 | 
+|   7   | 44, 49 | 
+|  10   | 56, 64 | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes human age and converts it into cat and dog years.</td>
   </tr>
 </table>
 
