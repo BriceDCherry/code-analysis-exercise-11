@@ -37,9 +37,9 @@ Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
 | ----- | ------ |
-|   5   | 36, 39 | 
-|   7   | 44, 49 | 
-|  10   | 56, 64 | 
+|   5   | catYears: 36, dogYears: 39, | 
+|   7   | catYears: 44, dogYears: 49, | 
+|  10   | catYears: 56, dogYears: 64, | 
 
 <table>
   <tr>
